@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670970905 source:c:\users\anado\documents\codeblocks\arvore_aula06\main.c
+	<stdio.h>
+	<stdlib.h>
+
